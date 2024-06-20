@@ -1,0 +1,72 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "",
+      "company": "ZSmart Service",
+      "logo": "8secondz",
+      "title": "Final Year Internship",
+      "dateFrom": "2023",
+      "dateTo": "2023",
+      "info": [
+        "Designed and developed a WEB application for commercial management accounting.",
+        "Managed IS and VAT taxes, generated PDF files."
+      ],
+      "stack": ["WEB Application", "Flask", "Accounting", "Tax Management"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 1,
+      "link": "",
+      "company": "Academic Project",
+      "logo": "8secondz",
+      "title": "Integrated Patient and Doctor Management",
+      "dateFrom": "2022",
+      "dateTo": "2022",
+      "info": [
+        "Managed patient and doctor appointments within the clinic.",
+        "Implemented data analysis mechanism using Flask."
+      ],
+      "stack": ["WEB Application", "Health IQ", "Flask", "Appointment Management"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 2,
+      "link": "",
+      "company": "Academic Project",
+      "logo": "8secondz",
+      "title": "ETL and Data Visualization",
+      "dateFrom": "2021",
+      "dateTo": "2021",
+      "info": [
+        "Implemented an ETL process for educational data.",
+        "Visualized data and generated reports."
+      ],
+      "stack": ["ETL", "Data Visualization", "Reports", "BI"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
+      "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
+    },
+    {
+      "id": 3,
+      "link": "",
+      "company": "Academic Project",
+      "logo": "8secondz",
+      "title": "Complex Network Topology",
+      "dateFrom": "2020",
+      "dateTo": "2020",
+      "info": [
+        "Implemented complex network topology using CISCO Packet Tracer.",
+        "Utilized routers and switches to connect computers."
+      ],
+      "stack": ["Network", "CISCO Packet Tracer", "Network Topology"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
+    }
+  ]
+}
